@@ -1,3 +1,10 @@
+% This script generates results for the closed-loop approach "Bhattacharyya
+% Distance" (BD) in a quadratic constraint set. It requires the Python
+% script "dccp_BD_QTA.py" in the Current Folder and produces a .mat-file
+% for each true candidate model containing the generated simulation data. 
+% Additionally, it produces a figure for each true candidate model and each
+% experiment.
+
 %% Run only once in a MATLAB session (change to the right path)
 % pyenv('Version',"path_to_environment\python.exe")
 

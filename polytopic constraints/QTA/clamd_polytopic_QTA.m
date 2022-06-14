@@ -1,3 +1,10 @@
+% This script generates results for the closed-loop approach "Quadratic 
+% Taylor Approximation" (QTA) in a poltopic constraint set. It
+% produces a .mat-file for each true candidate model containing the
+% generated simulation data. Additionally, it produces a figure for each
+% true candidate model and each experiment.
+
+%%
 clear all
 warning('off')
 Nexp = 1; % number of experiments

@@ -1,3 +1,7 @@
+% This script generates computes the open-loop (OL) solution to be used in
+% "clamd_quadratic_OL.m". It requires the files "quadcon.m" and
+% "sumwbhat.m" in the Current Folder.
+
 %% Note: the OL solution may take several days to compute
 
 clear all

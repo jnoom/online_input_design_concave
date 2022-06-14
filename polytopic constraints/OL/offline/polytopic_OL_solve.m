@@ -1,5 +1,8 @@
-%% Note: the OL solution may take several days to compute
+% This script generates computes the open-loop (OL) solution to be used in
+% "clamd_polytopic_OL.m". It requires the file "sumwbhat.m" in the Current
+% Folder.
 
+%% Note: the OL solution may take several days to compute
 warning('off')
 clear all
 

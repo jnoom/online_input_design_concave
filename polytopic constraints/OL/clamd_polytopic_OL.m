@@ -1,3 +1,9 @@
+% This script generates results for the open-loop (OL) approach in a
+% polytopic constraint set. It produces a .mat-file for each true
+% candidate model containing the generated simulation data. Additionally,
+% it produces a figure for each true candidate model and each experiment.
+
+%% Note: the OL solution may take several days to compute
 warning('off')
 
 Nexp = 1;  % number of experiments

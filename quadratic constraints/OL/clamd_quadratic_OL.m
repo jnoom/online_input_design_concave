@@ -1,3 +1,9 @@
+% This script generates results for the open-loop (OL) approach in a
+% quadratic constraint set. It produces a .mat-file for each true
+% candidate model containing the generated simulation data. Additionally,
+% it produces a figure for each true candidate model and each experiment.
+
+%%
 clear all
 Nexp = 1;
 N = 400;
