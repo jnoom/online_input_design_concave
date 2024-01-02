@@ -3,19 +3,20 @@
 
 ### Introduction
 
-This project provides Matlab code samples accompanying the paper "Closed-Loop Active Model Diagnosis using Concave Minimization" by Jacques Noom, Oleg Soloviev, Carlas Smith and Michel Verhaegen, submitted to IEEE Transactions on Automatic Control in June 2022.
+This project provides Matlab code samples accompanying the paper "Online input design for discrimination of linear
+models using concave minimisation" by Jacques Noom, Oleg Soloviev, Carlas Smith and Michel Verhaegen, submitted to International Journal of Control.
 
 
 
 ### Contents
 
-The files containing "clamd" in the name are executable and produce for each true candidate model a .mat-file containing the generated simulation data. Files with "solve" in the name generate the file "OL_solution.mat" in the same folder. This file is already included in the parent directory for generating results for the open-loop approaches.
+The files containing "clafd" in the name are executable and produce for each true candidate model a .mat-file containing the generated simulation data. Files with "solve" in the name generate the file "OL_solution.mat" in the same folder. This file is already included in the parent directory for generating results for the open-loop approaches.
 
 
 
 ### Installation
 
-The code was written in Matlab R2021a and Python 3.8 on Windows 10 with a 64-bit operating system and conda version 4.11.0. The scripts under the folder "polytopic constraints" only rely on Matlab. (Most of) the scripts under the folder "quadratic constraints" rely on both Matlab and Python. Therefore, please make sure that the release of Matlab is compatible with Python 3.8 (e.g. see https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf (09 June 2022)) 
+The code was written in Matlab R2021a and Python 3.8 on Windows 10 with a 64-bit operating system and conda version 4.11.0. The scripts under the folder "polytopic_constraints" only rely on Matlab. (Most of) the scripts under the folder "quadratic_constraints" rely on both Matlab and Python. Therefore, please make sure that the release of Matlab is compatible with Python 3.8 (e.g. see https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-compatibility.pdf (21 December 2023)) 
 
 
 
