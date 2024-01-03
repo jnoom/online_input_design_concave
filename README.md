@@ -52,4 +52,8 @@ Run the Matlab files.
 
 ### Citations
 
-For citing the software and/or the methodology, please refer to the corresponding paper.
+For citing the methodology, please refer to the corresponding paper.
+
+For citing the software, please use the DOI below.
+
+[![DOI](https://zenodo.org/badge/503260301.svg)](https://zenodo.org/doi/10.5281/zenodo.6642321)
