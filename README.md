@@ -1,6 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6642322.svg)](https://doi.org/10.5281/zenodo.6642322)
-
-
 ### Introduction
 
 This project provides Matlab code samples accompanying the paper "Online input design for discrimination of linear
@@ -54,4 +51,5 @@ Start a new Matlab session. Refer to the environment in the Matlab session using
 Run the Matlab files.
 
 ### Citations
-If you use this software in your work, please cite it using the DOI above.
+
+For citing the software and/or the methodology, please refer to the corresponding paper.
