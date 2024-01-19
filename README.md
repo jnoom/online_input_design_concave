@@ -1,7 +1,7 @@
 ### Introduction
 
 This project provides Matlab code samples accompanying the paper "Online input design for discrimination of linear
-models using concave minimisation" by Jacques Noom, Oleg Soloviev, Carlas Smith and Michel Verhaegen.
+models using concave minimization" by Jacques Noom, Oleg Soloviev, Carlas Smith and Michel Verhaegen.
 
 
 
